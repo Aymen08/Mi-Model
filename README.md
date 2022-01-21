@@ -1,4 +1,4 @@
-# Presentation
+#  Mi-Model
 
 This repository contains a PyTorch implementation of the paper "An Ensemble of Simple Convolutional Neural Network Models for MNIST Digit Recognition" [Paper Link](https://arxiv.org/abs/2008.10400).
 
